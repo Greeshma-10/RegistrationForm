@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570429932571",
+    "project_id": "registerapp-46066",
+    "storage_bucket": "registerapp-46066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570429932571:android:93ca5978c70a04e86764be",
+        "android_client_info": {
+          "package_name": "com.example.register_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDEFI-EE_DrRrVNg7drp2g11Ha_L6APk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570429932571:android:ace35020a13885796764be",
+        "android_client_info": {
+          "package_name": "com.register.regiter_forms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDEFI-EE_DrRrVNg7drp2g11Ha_L6APk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
